@@ -1,2 +1,1 @@
-# rust-guessing-game
-Learning rust
+# Learning rust
